@@ -1,24 +1,24 @@
 import spacy
 
 # This file can be empty or can include initialization code if needed
-password = "Daniyal_pass"  # This will be used for authentication
+password = "YOUR_PASSWORD_PLACEHOLDER"  # Placeholder for authentication password
 
 # Contacts dictionary
 contacts = {
-    "daniyal" : "+923289287491",
-    "mama" : "+923084122686",
-    "papa" : "+971558150319",
-    "natalia sister" : "+923124681701",
-    "mariha sister" : "+923238833027"
-    # Add more contacts as needed
+    "user" : "USER_CONTACT_PLACEHOLDER",
+    "mother" : "MOTHER_CONTACT_PLACEHOLDER",
+    "father" : "FATHER_CONTACT_PLACEHOLDER",
+    "sister_1" : "SISTER_1_CONTACT_PLACEHOLDER",
+    "sister_2" : "SISTER_2_CONTACT_PLACEHOLDER"
+    # Add more contacts as needed with placeholders
 }
 
 # API keys path 
-WEATHER_API_KEY_PATH = r"C:/Users/hp/Program & Projact/Hands-on Projects/AI Projacts/Jarvis AI Assistant/Requirements/weather api key.txt"
-EMAIL_CREDENTIALS_PATH = r"C:/Users/hp/Program & Projact/Hands-on Projects/AI Projacts/Jarvis AI Assistant/Requirements/email_credentials.txt"
+WEATHER_API_KEY_PATH = "YOUR_API_KEY_PATH_PLACEHOLDER"
+EMAIL_CREDENTIALS_PATH = "YOUR_EMAIL_CREDENTIALS_PATH_PLACEHOLDER"
 
 # Define constants
-NOTE_FILE_PATH = "notes.txt"
+NOTE_FILE_PATH = "YOUR_NOTE_FILE_PATH_PLACEHOLDER"
 
 WORD_TO_OPERATOR = {
     '+': '+',
